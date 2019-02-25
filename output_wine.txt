@@ -1,0 +1,1046 @@
+wine.txt 3 100 0.001 100
+
+Run: 1
+-----------------------
+Iteration 1 : SSC = 12733298.102234228
+Iteration 2 : SSC = 5752991.110512418
+Iteration 3 : SSC = 3600543.4230582216
+Iteration 4 : SSC = 3041022.400916478
+Iteration 5 : SSC = 2614186.608879353
+Iteration 6 : SSC = 2463787.220903916
+Iteration 7 : SSC = 2381982.9894820536
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 2
+-----------------------
+Iteration 1 : SSC = 37162246.024440326
+Iteration 2 : SSC = 10731964.873232394
+Iteration 3 : SSC = 6486339.424277184
+Iteration 4 : SSC = 4098463.476073893
+Iteration 5 : SSC = 3181012.2638870133
+Iteration 6 : SSC = 2761725.586421976
+Iteration 7 : SSC = 2473603.7931266637
+Iteration 8 : SSC = 2392500.7546449522
+Iteration 9 : SSC = 2374098.575039119
+Iteration 10 : SSC = 2371249.446583612
+Iteration 11 : SSC = 2370689.68678297
+
+Run: 3
+-----------------------
+Iteration 1 : SSC = 8566884.000263
+Iteration 2 : SSC = 2684279.1217724206
+Iteration 3 : SSC = 2647701.216484392
+Iteration 4 : SSC = 2590271.1901203273
+Iteration 5 : SSC = 2498249.2848265227
+Iteration 6 : SSC = 2455709.271322011
+Iteration 7 : SSC = 2452516.3200654294
+Iteration 8 : SSC = 2430989.1425787983
+Iteration 9 : SSC = 2397980.7062965757
+Iteration 10 : SSC = 2379460.838530858
+Iteration 11 : SSC = 2372929.8051930894
+Iteration 12 : SSC = 2370689.68678297
+
+Run: 4
+-----------------------
+Iteration 1 : SSC = 11491581.704003682
+Iteration 2 : SSC = 3282050.2266135192
+Iteration 3 : SSC = 2577790.7926560394
+Iteration 4 : SSC = 2445467.972551894
+Iteration 5 : SSC = 2376869.3594529545
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 5
+-----------------------
+Iteration 1 : SSC = 27114853.209807202
+Iteration 2 : SSC = 8933817.357503625
+Iteration 3 : SSC = 5280492.492041976
+Iteration 4 : SSC = 3593835.85481382
+Iteration 5 : SSC = 3084505.042298704
+Iteration 6 : SSC = 2678579.5999662504
+Iteration 7 : SSC = 2463787.220903916
+Iteration 8 : SSC = 2381982.9894820536
+Iteration 9 : SSC = 2371249.446583612
+Iteration 10 : SSC = 2370689.68678297
+
+Run: 6
+-----------------------
+Iteration 1 : SSC = 6138399.378953198
+Iteration 2 : SSC = 2682117.8851445233
+Iteration 3 : SSC = 2477386.8972692573
+Iteration 4 : SSC = 2455709.271322011
+Iteration 5 : SSC = 2452516.3200654294
+Iteration 6 : SSC = 2430989.1425787983
+Iteration 7 : SSC = 2397980.7062965757
+Iteration 8 : SSC = 2379460.838530858
+Iteration 9 : SSC = 2372929.8051930894
+Iteration 10 : SSC = 2370689.68678297
+
+Run: 7
+-----------------------
+Iteration 1 : SSC = 5320449.260780799
+Iteration 2 : SSC = 2916494.541997983
+Iteration 3 : SSC = 2733674.352295149
+Iteration 4 : SSC = 2707152.9409963284
+Iteration 5 : SSC = 2705216.162823168
+
+Run: 8
+-----------------------
+Iteration 1 : SSC = 2583073.458581801
+Iteration 2 : SSC = 2429912.2375980252
+Iteration 3 : SSC = 2376869.3594529545
+Iteration 4 : SSC = 2371249.446583612
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 9
+-----------------------
+Iteration 1 : SSC = 4587963.69714556
+Iteration 2 : SSC = 2725046.882119956
+Iteration 3 : SSC = 2645279.4187525804
+Iteration 4 : SSC = 2639119.245206226
+Iteration 5 : SSC = 2637932.8620275296
+
+Run: 10
+-----------------------
+Iteration 1 : SSC = 17053684.53946679
+Iteration 2 : SSC = 6416281.096300569
+Iteration 3 : SSC = 3918950.8897420033
+Iteration 4 : SSC = 3099477.1465833145
+Iteration 5 : SSC = 2678579.5999662504
+Iteration 6 : SSC = 2463787.220903916
+Iteration 7 : SSC = 2381982.9894820536
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 11
+-----------------------
+Iteration 1 : SSC = 10981189.018561611
+Iteration 2 : SSC = 3736252.930512275
+Iteration 3 : SSC = 2981360.8506753817
+Iteration 4 : SSC = 2549743.520620592
+Iteration 5 : SSC = 2429912.2375980252
+Iteration 6 : SSC = 2376869.3594529545
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 12
+-----------------------
+Iteration 1 : SSC = 14992959.888174219
+Iteration 2 : SSC = 6359846.99451929
+Iteration 3 : SSC = 3918950.8897420033
+Iteration 4 : SSC = 3099477.1465833145
+Iteration 5 : SSC = 2678579.5999662504
+Iteration 6 : SSC = 2463787.220903916
+Iteration 7 : SSC = 2381982.9894820536
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 13
+-----------------------
+Iteration 1 : SSC = 5735314.490928203
+Iteration 2 : SSC = 2727535.567417697
+Iteration 3 : SSC = 2403813.878759315
+Iteration 4 : SSC = 2371249.446583612
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 14
+-----------------------
+Iteration 1 : SSC = 23432532.17444897
+Iteration 2 : SSC = 3184298.109973179
+Iteration 3 : SSC = 2736350.5253442805
+Iteration 4 : SSC = 2707152.9409963284
+Iteration 5 : SSC = 2705216.162823168
+
+Run: 15
+-----------------------
+Iteration 1 : SSC = 12890072.027925802
+Iteration 2 : SSC = 5593628.4682138795
+Iteration 3 : SSC = 3523406.53478839
+Iteration 4 : SSC = 2959301.105550275
+Iteration 5 : SSC = 2593795.2119768974
+Iteration 6 : SSC = 2463787.220903916
+Iteration 7 : SSC = 2381982.9894820536
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 16
+-----------------------
+Iteration 1 : SSC = 11209745.4827415
+Iteration 2 : SSC = 4186549.869418754
+Iteration 3 : SSC = 2805714.7360327486
+Iteration 4 : SSC = 2463787.220903916
+Iteration 5 : SSC = 2381982.9894820536
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 17
+-----------------------
+Iteration 1 : SSC = 41151111.24506868
+Iteration 2 : SSC = 6391933.476897747
+Iteration 3 : SSC = 3879631.9265020434
+Iteration 4 : SSC = 3520820.049693094
+Iteration 5 : SSC = 3327018.2408237555
+Iteration 6 : SSC = 2901290.608835986
+Iteration 7 : SSC = 2763384.4720785804
+Iteration 8 : SSC = 2711393.6589956293
+Iteration 9 : SSC = 2705216.162823168
+Iteration 10 : SSC = 2692903.6118415394
+Iteration 11 : SSC = 2653713.884934755
+Iteration 12 : SSC = 2642814.59130028
+Iteration 13 : SSC = 2639119.245206226
+Iteration 14 : SSC = 2637932.8620275296
+
+Run: 18
+-----------------------
+Iteration 1 : SSC = 3804560.5075236773
+Iteration 2 : SSC = 2865179.5969329844
+Iteration 3 : SSC = 2498670.210037711
+Iteration 4 : SSC = 2403136.3013521526
+Iteration 5 : SSC = 2374098.575039119
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 19
+-----------------------
+Iteration 1 : SSC = 10295607.850423794
+Iteration 2 : SSC = 4294350.63545822
+Iteration 3 : SSC = 2786543.3338822266
+Iteration 4 : SSC = 2463787.220903916
+Iteration 5 : SSC = 2381982.9894820536
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 20
+-----------------------
+Iteration 1 : SSC = 12260560.872240994
+Iteration 2 : SSC = 5130352.895673747
+Iteration 3 : SSC = 3236392.2612536913
+Iteration 4 : SSC = 2708786.9703832353
+Iteration 5 : SSC = 2463787.220903916
+Iteration 6 : SSC = 2381982.9894820536
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 21
+-----------------------
+Iteration 1 : SSC = 9307217.388482537
+Iteration 2 : SSC = 3060987.9797998974
+Iteration 3 : SSC = 2707599.2600094955
+Iteration 4 : SSC = 2682310.4627586496
+Iteration 5 : SSC = 2653713.884934755
+Iteration 6 : SSC = 2642814.59130028
+Iteration 7 : SSC = 2639119.245206226
+Iteration 8 : SSC = 2637932.8620275296
+
+Run: 22
+-----------------------
+Iteration 1 : SSC = 7722089.825899995
+Iteration 2 : SSC = 3042355.4225453697
+Iteration 3 : SSC = 2565980.779158967
+Iteration 4 : SSC = 2429912.2375980252
+Iteration 5 : SSC = 2376869.3594529545
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 23
+-----------------------
+Iteration 1 : SSC = 22867928.512720995
+Iteration 2 : SSC = 6788393.501422397
+Iteration 3 : SSC = 3838593.576367155
+Iteration 4 : SSC = 3041022.400916478
+Iteration 5 : SSC = 2614186.608879353
+Iteration 6 : SSC = 2463787.220903916
+Iteration 7 : SSC = 2381982.9894820536
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 24
+-----------------------
+Iteration 1 : SSC = 5859872.961163401
+Iteration 2 : SSC = 3437734.8874655487
+Iteration 3 : SSC = 2947845.448677082
+Iteration 4 : SSC = 2569307.5529902577
+Iteration 5 : SSC = 2435283.8974986505
+Iteration 6 : SSC = 2376869.3594529545
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 25
+-----------------------
+Iteration 1 : SSC = 6470271.422060002
+Iteration 2 : SSC = 2675294.7966044806
+Iteration 3 : SSC = 2392342.040281862
+Iteration 4 : SSC = 2372734.967678179
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 26
+-----------------------
+Iteration 1 : SSC = 19375432.607271507
+Iteration 2 : SSC = 6622225.853165181
+Iteration 3 : SSC = 3991386.3502939297
+Iteration 4 : SSC = 3163776.794568833
+Iteration 5 : SSC = 2726529.656218137
+Iteration 6 : SSC = 2473603.7931266637
+Iteration 7 : SSC = 2392500.7546449522
+Iteration 8 : SSC = 2374098.575039119
+Iteration 9 : SSC = 2371249.446583612
+Iteration 10 : SSC = 2370689.68678297
+
+Run: 27
+-----------------------
+Iteration 1 : SSC = 4620059.547600001
+Iteration 2 : SSC = 2631621.5146921417
+Iteration 3 : SSC = 2435283.8974986505
+Iteration 4 : SSC = 2376869.3594529545
+Iteration 5 : SSC = 2371249.446583612
+Iteration 6 : SSC = 2370689.68678297
+
+Run: 28
+-----------------------
+Iteration 1 : SSC = 3413980.7737201997
+Iteration 2 : SSC = 2828742.134979774
+Iteration 3 : SSC = 2514497.5265618605
+Iteration 4 : SSC = 2417917.527987486
+Iteration 5 : SSC = 2374098.575039119
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 29
+-----------------------
+Iteration 1 : SSC = 4390482.9949315
+Iteration 2 : SSC = 3249528.146714822
+Iteration 3 : SSC = 2780913.075719171
+Iteration 4 : SSC = 2473603.7931266637
+Iteration 5 : SSC = 2392500.7546449522
+Iteration 6 : SSC = 2374098.575039119
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 30
+-----------------------
+Iteration 1 : SSC = 13347282.81156621
+Iteration 2 : SSC = 4232520.124261092
+Iteration 3 : SSC = 2805714.7360327486
+Iteration 4 : SSC = 2463787.220903916
+Iteration 5 : SSC = 2381982.9894820536
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 31
+-----------------------
+Iteration 1 : SSC = 5503743.749801499
+Iteration 2 : SSC = 2894266.180747633
+Iteration 3 : SSC = 2569307.5529902577
+Iteration 4 : SSC = 2435283.8974986505
+Iteration 5 : SSC = 2376869.3594529545
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 32
+-----------------------
+Iteration 1 : SSC = 16276317.765943909
+Iteration 2 : SSC = 4392279.6598580405
+Iteration 3 : SSC = 2763736.748821402
+Iteration 4 : SSC = 2445467.972551894
+Iteration 5 : SSC = 2376869.3594529545
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 33
+-----------------------
+Iteration 1 : SSC = 9004640.943403002
+Iteration 2 : SSC = 3014713.370814912
+Iteration 3 : SSC = 2714633.4717696533
+Iteration 4 : SSC = 2682310.4627586496
+Iteration 5 : SSC = 2653713.884934755
+Iteration 6 : SSC = 2642814.59130028
+Iteration 7 : SSC = 2639119.245206226
+Iteration 8 : SSC = 2637932.8620275296
+
+Run: 34
+-----------------------
+Iteration 1 : SSC = 3793722.4409427955
+Iteration 2 : SSC = 2777883.076537635
+Iteration 3 : SSC = 2445467.972551894
+Iteration 4 : SSC = 2376869.3594529545
+Iteration 5 : SSC = 2371249.446583612
+Iteration 6 : SSC = 2370689.68678297
+
+Run: 35
+-----------------------
+Iteration 1 : SSC = 7877013.2836418
+Iteration 2 : SSC = 4836757.921317899
+Iteration 3 : SSC = 3366483.317441443
+Iteration 4 : SSC = 2835291.374825548
+Iteration 5 : SSC = 2473603.7931266637
+Iteration 6 : SSC = 2392500.7546449522
+Iteration 7 : SSC = 2374098.575039119
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 36
+-----------------------
+Iteration 1 : SSC = 16038794.551242618
+Iteration 2 : SSC = 3040443.0752313905
+Iteration 3 : SSC = 2736350.5253442805
+Iteration 4 : SSC = 2707152.9409963284
+Iteration 5 : SSC = 2705216.162823168
+
+Run: 37
+-----------------------
+Iteration 1 : SSC = 5831891.2799756
+Iteration 2 : SSC = 2544533.781428248
+Iteration 3 : SSC = 2394597.2449649177
+Iteration 4 : SSC = 2379460.838530858
+Iteration 5 : SSC = 2372929.8051930894
+Iteration 6 : SSC = 2370689.68678297
+
+Run: 38
+-----------------------
+Iteration 1 : SSC = 20087490.0454623
+Iteration 2 : SSC = 5732056.849001361
+Iteration 3 : SSC = 3367163.512926264
+Iteration 4 : SSC = 2733424.583030557
+Iteration 5 : SSC = 2463787.220903916
+Iteration 6 : SSC = 2381982.9894820536
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 39
+-----------------------
+Iteration 1 : SSC = 6284049.303132
+Iteration 2 : SSC = 3060314.595846196
+Iteration 3 : SSC = 2776551.61041266
+Iteration 4 : SSC = 2711393.6589956293
+Iteration 5 : SSC = 2705216.162823168
+Iteration 6 : SSC = 2692903.6118415394
+Iteration 7 : SSC = 2653713.884934755
+Iteration 8 : SSC = 2642814.59130028
+Iteration 9 : SSC = 2639119.245206226
+Iteration 10 : SSC = 2637932.8620275296
+
+Run: 40
+-----------------------
+Iteration 1 : SSC = 8235542.727459699
+Iteration 2 : SSC = 2745467.0991694066
+Iteration 3 : SSC = 2388435.888418253
+Iteration 4 : SSC = 2371249.446583612
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 41
+-----------------------
+Iteration 1 : SSC = 5260391.564905002
+Iteration 2 : SSC = 3155430.204244333
+Iteration 3 : SSC = 2375193.2708029104
+Iteration 4 : SSC = 2370689.68678297
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 42
+-----------------------
+Iteration 1 : SSC = 13417651.657256609
+Iteration 2 : SSC = 4624628.162951065
+Iteration 3 : SSC = 3693352.0325722634
+Iteration 4 : SSC = 3025382.5200180435
+Iteration 5 : SSC = 2612765.357903765
+Iteration 6 : SSC = 2435283.8974986505
+Iteration 7 : SSC = 2376869.3594529545
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 43
+-----------------------
+Iteration 1 : SSC = 3137536.035001401
+Iteration 2 : SSC = 2423620.3623196865
+Iteration 3 : SSC = 2374098.575039119
+Iteration 4 : SSC = 2371249.446583612
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 44
+-----------------------
+Iteration 1 : SSC = 5613778.272448199
+Iteration 2 : SSC = 2735829.345262689
+Iteration 3 : SSC = 2409065.371641562
+Iteration 4 : SSC = 2374098.575039119
+Iteration 5 : SSC = 2371249.446583612
+Iteration 6 : SSC = 2370689.68678297
+
+Run: 45
+-----------------------
+Iteration 1 : SSC = 8349053.553737799
+Iteration 2 : SSC = 5685222.492734492
+Iteration 3 : SSC = 4749360.066156211
+Iteration 4 : SSC = 4581619.697647741
+Iteration 5 : SSC = 4568036.091116221
+Iteration 6 : SSC = 4562014.925950286
+Iteration 7 : SSC = 4554485.316262359
+Iteration 8 : SSC = 4545746.292099381
+Iteration 9 : SSC = 4545746.292099381
+
+Run: 46
+-----------------------
+Iteration 1 : SSC = 2406716.235141341
+Iteration 2 : SSC = 2377069.3518525497
+Iteration 3 : SSC = 2370689.68678297
+Iteration 4 : SSC = 2370689.68678297
+
+Run: 47
+-----------------------
+Iteration 1 : SSC = 6340640.803262001
+Iteration 2 : SSC = 2663545.757259775
+Iteration 3 : SSC = 2645546.84016133
+Iteration 4 : SSC = 2642814.59130028
+Iteration 5 : SSC = 2639119.245206226
+Iteration 6 : SSC = 2637932.8620275296
+
+Run: 48
+-----------------------
+Iteration 1 : SSC = 31749632.708204757
+Iteration 2 : SSC = 3638419.120263073
+Iteration 3 : SSC = 2776819.044333214
+Iteration 4 : SSC = 2711393.6589956293
+Iteration 5 : SSC = 2705216.162823168
+Iteration 6 : SSC = 2692903.6118415394
+Iteration 7 : SSC = 2653713.884934755
+Iteration 8 : SSC = 2642814.59130028
+Iteration 9 : SSC = 2639119.245206226
+Iteration 10 : SSC = 2637932.8620275296
+
+Run: 49
+-----------------------
+Iteration 1 : SSC = 4170529.5152418027
+Iteration 2 : SSC = 2645481.004555189
+Iteration 3 : SSC = 2631657.067456402
+Iteration 4 : SSC = 2631657.067456402
+
+Run: 50
+-----------------------
+Iteration 1 : SSC = 28713115.90414405
+Iteration 2 : SSC = 3525276.870153651
+Iteration 3 : SSC = 2805664.9669837547
+Iteration 4 : SSC = 2726070.275348563
+Iteration 5 : SSC = 2707152.9409963284
+Iteration 6 : SSC = 2705216.162823168
+
+Run: 51
+-----------------------
+Iteration 1 : SSC = 17898629.04421041
+Iteration 2 : SSC = 7451044.263915772
+Iteration 3 : SSC = 4815222.778582217
+Iteration 4 : SSC = 3384816.4644623175
+Iteration 5 : SSC = 2871416.778176361
+Iteration 6 : SSC = 2514497.5265618605
+Iteration 7 : SSC = 2417917.527987486
+Iteration 8 : SSC = 2374098.575039119
+Iteration 9 : SSC = 2371249.446583612
+Iteration 10 : SSC = 2370689.68678297
+
+Run: 52
+-----------------------
+Iteration 1 : SSC = 5637149.2338228
+Iteration 2 : SSC = 2582872.8938255943
+Iteration 3 : SSC = 2435283.8974986505
+Iteration 4 : SSC = 2376869.3594529545
+Iteration 5 : SSC = 2371249.446583612
+Iteration 6 : SSC = 2370689.68678297
+
+Run: 53
+-----------------------
+Iteration 1 : SSC = 4329054.025645201
+Iteration 2 : SSC = 2830255.1835206063
+Iteration 3 : SSC = 2726070.275348563
+Iteration 4 : SSC = 2707152.9409963284
+Iteration 5 : SSC = 2705216.162823168
+
+Run: 54
+-----------------------
+Iteration 1 : SSC = 26170224.91304152
+Iteration 2 : SSC = 8040555.48733007
+Iteration 3 : SSC = 4726903.624949122
+Iteration 4 : SSC = 3315573.0698426776
+Iteration 5 : SSC = 2814408.296741153
+Iteration 6 : SSC = 2473603.7931266637
+Iteration 7 : SSC = 2392500.7546449522
+Iteration 8 : SSC = 2374098.575039119
+Iteration 9 : SSC = 2371249.446583612
+Iteration 10 : SSC = 2370689.68678297
+
+Run: 55
+-----------------------
+Iteration 1 : SSC = 4426256.699440317
+Iteration 2 : SSC = 2667936.6477523935
+Iteration 3 : SSC = 2537433.7319419724
+Iteration 4 : SSC = 2466366.3240914564
+Iteration 5 : SSC = 2452516.3200654294
+Iteration 6 : SSC = 2430989.1425787983
+Iteration 7 : SSC = 2397980.7062965757
+Iteration 8 : SSC = 2379460.838530858
+Iteration 9 : SSC = 2372929.8051930894
+Iteration 10 : SSC = 2370689.68678297
+
+Run: 56
+-----------------------
+Iteration 1 : SSC = 4368094.4436462
+Iteration 2 : SSC = 2705316.9075879515
+Iteration 3 : SSC = 2584685.3716231873
+Iteration 4 : SSC = 2498249.2848265227
+Iteration 5 : SSC = 2455709.271322011
+Iteration 6 : SSC = 2452516.3200654294
+Iteration 7 : SSC = 2430989.1425787983
+Iteration 8 : SSC = 2397980.7062965757
+Iteration 9 : SSC = 2379460.838530858
+Iteration 10 : SSC = 2372929.8051930894
+Iteration 11 : SSC = 2370689.68678297
+
+Run: 57
+-----------------------
+Iteration 1 : SSC = 3399421.078026202
+Iteration 2 : SSC = 2652780.456840449
+Iteration 3 : SSC = 2627387.5108336518
+Iteration 4 : SSC = 2625223.1506744255
+
+Run: 58
+-----------------------
+Iteration 1 : SSC = 8407298.600481596
+Iteration 2 : SSC = 3136646.1314819027
+Iteration 3 : SSC = 2616907.461187809
+Iteration 4 : SSC = 2463787.220903916
+Iteration 5 : SSC = 2381982.9894820536
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 59
+-----------------------
+Iteration 1 : SSC = 3634948.6020187605
+Iteration 2 : SSC = 2458988.5049243267
+Iteration 3 : SSC = 2452516.3200654294
+Iteration 4 : SSC = 2430989.1425787983
+Iteration 5 : SSC = 2397980.7062965757
+Iteration 6 : SSC = 2379460.838530858
+Iteration 7 : SSC = 2372929.8051930894
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 60
+-----------------------
+Iteration 1 : SSC = 3950911.901820599
+Iteration 2 : SSC = 2900484.5751988725
+Iteration 3 : SSC = 2776551.61041266
+Iteration 4 : SSC = 2711393.6589956293
+Iteration 5 : SSC = 2705216.162823168
+Iteration 6 : SSC = 2692903.6118415394
+Iteration 7 : SSC = 2653713.884934755
+Iteration 8 : SSC = 2642814.59130028
+Iteration 9 : SSC = 2639119.245206226
+Iteration 10 : SSC = 2637932.8620275296
+
+Run: 61
+-----------------------
+Iteration 1 : SSC = 6235053.070622704
+Iteration 2 : SSC = 2694465.109988743
+Iteration 3 : SSC = 2403867.112395678
+Iteration 4 : SSC = 2374098.575039119
+Iteration 5 : SSC = 2371249.446583612
+Iteration 6 : SSC = 2370689.68678297
+
+Run: 62
+-----------------------
+Iteration 1 : SSC = 11112983.823365012
+Iteration 2 : SSC = 3376695.32170082
+Iteration 3 : SSC = 2577790.7926560394
+Iteration 4 : SSC = 2445467.972551894
+Iteration 5 : SSC = 2376869.3594529545
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 63
+-----------------------
+Iteration 1 : SSC = 8396773.782441204
+Iteration 2 : SSC = 2724910.7604436716
+Iteration 3 : SSC = 2634677.8245192086
+Iteration 4 : SSC = 2632871.467961362
+
+Run: 64
+-----------------------
+Iteration 1 : SSC = 11733237.757961003
+Iteration 2 : SSC = 2646616.333314113
+Iteration 3 : SSC = 2425672.1751527577
+Iteration 4 : SSC = 2376869.3594529545
+Iteration 5 : SSC = 2371249.446583612
+Iteration 6 : SSC = 2370689.68678297
+
+Run: 65
+-----------------------
+Iteration 1 : SSC = 8457391.127328206
+Iteration 2 : SSC = 4349747.616985899
+Iteration 3 : SSC = 3075386.0299390987
+Iteration 4 : SSC = 2638834.675514216
+Iteration 5 : SSC = 2463787.220903916
+Iteration 6 : SSC = 2381982.9894820536
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 66
+-----------------------
+Iteration 1 : SSC = 3639812.030947601
+Iteration 2 : SSC = 2381824.4849431617
+Iteration 3 : SSC = 2377069.3518525497
+Iteration 4 : SSC = 2370689.68678297
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 67
+-----------------------
+Iteration 1 : SSC = 4906292.353385403
+Iteration 2 : SSC = 2562624.0409579626
+Iteration 3 : SSC = 2380285.3992390493
+Iteration 4 : SSC = 2371249.446583612
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 68
+-----------------------
+Iteration 1 : SSC = 18299171.296481393
+Iteration 2 : SSC = 5934279.191783501
+Iteration 3 : SSC = 3687053.4483664916
+Iteration 4 : SSC = 3084505.042298704
+Iteration 5 : SSC = 2678579.5999662504
+Iteration 6 : SSC = 2463787.220903916
+Iteration 7 : SSC = 2381982.9894820536
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 69
+-----------------------
+Iteration 1 : SSC = 16129262.752441721
+Iteration 2 : SSC = 4731017.999662328
+Iteration 3 : SSC = 3137317.1461311528
+Iteration 4 : SSC = 2638834.675514216
+Iteration 5 : SSC = 2463787.220903916
+Iteration 6 : SSC = 2381982.9894820536
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 70
+-----------------------
+Iteration 1 : SSC = 28550890.812363606
+Iteration 2 : SSC = 4564933.8035214655
+Iteration 3 : SSC = 3210256.8133173077
+Iteration 4 : SSC = 2776551.61041266
+Iteration 5 : SSC = 2711393.6589956293
+Iteration 6 : SSC = 2705216.162823168
+Iteration 7 : SSC = 2692903.6118415394
+Iteration 8 : SSC = 2653713.884934755
+Iteration 9 : SSC = 2642814.59130028
+Iteration 10 : SSC = 2639119.245206226
+Iteration 11 : SSC = 2637932.8620275296
+
+Run: 71
+-----------------------
+Iteration 1 : SSC = 3639420.0609814026
+Iteration 2 : SSC = 3034911.396990889
+Iteration 3 : SSC = 2651752.032087967
+Iteration 4 : SSC = 2463787.220903916
+Iteration 5 : SSC = 2381982.9894820536
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 72
+-----------------------
+Iteration 1 : SSC = 4877766.577166757
+Iteration 2 : SSC = 3090163.5325019513
+Iteration 3 : SSC = 2776551.61041266
+Iteration 4 : SSC = 2711393.6589956293
+Iteration 5 : SSC = 2705216.162823168
+Iteration 6 : SSC = 2692903.6118415394
+Iteration 7 : SSC = 2653713.884934755
+Iteration 8 : SSC = 2642814.59130028
+Iteration 9 : SSC = 2639119.245206226
+Iteration 10 : SSC = 2637932.8620275296
+
+Run: 73
+-----------------------
+Iteration 1 : SSC = 8486511.462298758
+Iteration 2 : SSC = 2922785.619538309
+Iteration 3 : SSC = 2414287.9686246887
+Iteration 4 : SSC = 2371249.446583612
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 74
+-----------------------
+Iteration 1 : SSC = 23954982.23490112
+Iteration 2 : SSC = 6768488.716718259
+Iteration 3 : SSC = 3796039.1222071424
+Iteration 4 : SSC = 3041022.400916478
+Iteration 5 : SSC = 2614186.608879353
+Iteration 6 : SSC = 2463787.220903916
+Iteration 7 : SSC = 2381982.9894820536
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 75
+-----------------------
+Iteration 1 : SSC = 3379585.287182701
+Iteration 2 : SSC = 2780913.075719171
+Iteration 3 : SSC = 2473603.7931266637
+Iteration 4 : SSC = 2392500.7546449522
+Iteration 5 : SSC = 2374098.575039119
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 76
+-----------------------
+Iteration 1 : SSC = 7473581.970791497
+Iteration 2 : SSC = 2624129.4322898192
+Iteration 3 : SSC = 2428888.3051630654
+Iteration 4 : SSC = 2384693.086671529
+Iteration 5 : SSC = 2377069.3518525497
+Iteration 6 : SSC = 2370689.68678297
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 77
+-----------------------
+Iteration 1 : SSC = 14846173.436723392
+Iteration 2 : SSC = 6567551.212703546
+Iteration 3 : SSC = 3991386.3502939297
+Iteration 4 : SSC = 3163776.794568833
+Iteration 5 : SSC = 2726529.656218137
+Iteration 6 : SSC = 2473603.7931266637
+Iteration 7 : SSC = 2392500.7546449522
+Iteration 8 : SSC = 2374098.575039119
+Iteration 9 : SSC = 2371249.446583612
+Iteration 10 : SSC = 2370689.68678297
+
+Run: 78
+-----------------------
+Iteration 1 : SSC = 2845375.206125402
+Iteration 2 : SSC = 2372243.311596223
+Iteration 3 : SSC = 2370689.68678297
+
+Run: 79
+-----------------------
+Iteration 1 : SSC = 13387958.70143723
+Iteration 2 : SSC = 3348199.387743311
+Iteration 3 : SSC = 2420778.674957606
+Iteration 4 : SSC = 2375734.076059016
+Iteration 5 : SSC = 2370689.68678297
+Iteration 6 : SSC = 2370689.68678297
+
+Run: 80
+-----------------------
+Iteration 1 : SSC = 4175046.153414603
+Iteration 2 : SSC = 3309716.422142931
+Iteration 3 : SSC = 2839865.258024772
+Iteration 4 : SSC = 2514497.5265618605
+Iteration 5 : SSC = 2417917.527987486
+Iteration 6 : SSC = 2374098.575039119
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 81
+-----------------------
+Iteration 1 : SSC = 2712126.8843334005
+Iteration 2 : SSC = 2371249.446583612
+Iteration 3 : SSC = 2370689.68678297
+
+Run: 82
+-----------------------
+Iteration 1 : SSC = 10845348.03258208
+Iteration 2 : SSC = 2953053.1104997005
+Iteration 3 : SSC = 2386398.741736921
+Iteration 4 : SSC = 2372929.8051930894
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 83
+-----------------------
+Iteration 1 : SSC = 6954395.298361899
+Iteration 2 : SSC = 2979456.5625822362
+Iteration 3 : SSC = 2736350.5253442805
+Iteration 4 : SSC = 2707152.9409963284
+Iteration 5 : SSC = 2705216.162823168
+
+Run: 84
+-----------------------
+Iteration 1 : SSC = 19144198.263421413
+Iteration 2 : SSC = 4853794.569072588
+Iteration 3 : SSC = 2837240.593290973
+Iteration 4 : SSC = 2498670.210037711
+Iteration 5 : SSC = 2403136.3013521526
+Iteration 6 : SSC = 2374098.575039119
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 85
+-----------------------
+Iteration 1 : SSC = 8355495.069261099
+Iteration 2 : SSC = 3838593.576367155
+Iteration 3 : SSC = 3041022.400916478
+Iteration 4 : SSC = 2614186.608879353
+Iteration 5 : SSC = 2463787.220903916
+Iteration 6 : SSC = 2381982.9894820536
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 86
+-----------------------
+Iteration 1 : SSC = 4138408.9367850013
+Iteration 2 : SSC = 2610956.1664061043
+Iteration 3 : SSC = 2398313.153156082
+Iteration 4 : SSC = 2371249.446583612
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 87
+-----------------------
+Iteration 1 : SSC = 4763718.4747134
+Iteration 2 : SSC = 2855244.001774497
+Iteration 3 : SSC = 2763384.4720785804
+Iteration 4 : SSC = 2711393.6589956293
+Iteration 5 : SSC = 2705216.162823168
+Iteration 6 : SSC = 2692903.6118415394
+Iteration 7 : SSC = 2653713.884934755
+Iteration 8 : SSC = 2642814.59130028
+Iteration 9 : SSC = 2639119.245206226
+Iteration 10 : SSC = 2637932.8620275296
+
+Run: 88
+-----------------------
+Iteration 1 : SSC = 8160313.4002402015
+Iteration 2 : SSC = 2634483.3972614147
+Iteration 3 : SSC = 2631653.7620958947
+Iteration 4 : SSC = 2629315.194018101
+
+Run: 89
+-----------------------
+Iteration 1 : SSC = 4752734.446340594
+Iteration 2 : SSC = 2757511.1784564652
+Iteration 3 : SSC = 2642489.6323306514
+Iteration 4 : SSC = 2526584.910860637
+Iteration 5 : SSC = 2466677.225596337
+Iteration 6 : SSC = 2452516.3200654294
+Iteration 7 : SSC = 2430989.1425787983
+Iteration 8 : SSC = 2397980.7062965757
+Iteration 9 : SSC = 2379460.838530858
+Iteration 10 : SSC = 2372929.8051930894
+Iteration 11 : SSC = 2370689.68678297
+
+Run: 90
+-----------------------
+Iteration 1 : SSC = 14388297.617122304
+Iteration 2 : SSC = 4578422.111778967
+Iteration 3 : SSC = 2902999.3624525354
+Iteration 4 : SSC = 2542652.2547550136
+Iteration 5 : SSC = 2429912.2375980252
+Iteration 6 : SSC = 2376869.3594529545
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 91
+-----------------------
+Iteration 1 : SSC = 4610850.318897799
+Iteration 2 : SSC = 3033881.2103589126
+Iteration 3 : SSC = 2616907.461187809
+Iteration 4 : SSC = 2463787.220903916
+Iteration 5 : SSC = 2381982.9894820536
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 92
+-----------------------
+Iteration 1 : SSC = 6297174.133403796
+Iteration 2 : SSC = 3911256.537441327
+Iteration 3 : SSC = 3163776.794568833
+Iteration 4 : SSC = 2726529.656218137
+Iteration 5 : SSC = 2473603.7931266637
+Iteration 6 : SSC = 2392500.7546449522
+Iteration 7 : SSC = 2374098.575039119
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 93
+-----------------------
+Iteration 1 : SSC = 5291978.851266997
+Iteration 2 : SSC = 2696040.731576684
+Iteration 3 : SSC = 2637839.0858227173
+Iteration 4 : SSC = 2594392.1904920894
+Iteration 5 : SSC = 2541316.021187479
+Iteration 6 : SSC = 2476545.9977094885
+Iteration 7 : SSC = 2455709.271322011
+Iteration 8 : SSC = 2452516.3200654294
+Iteration 9 : SSC = 2430989.1425787983
+Iteration 10 : SSC = 2397980.7062965757
+Iteration 11 : SSC = 2379460.838530858
+Iteration 12 : SSC = 2372929.8051930894
+Iteration 13 : SSC = 2370689.68678297
+
+Run: 94
+-----------------------
+Iteration 1 : SSC = 5468836.900162098
+Iteration 2 : SSC = 2485469.7214585603
+Iteration 3 : SSC = 2378267.035780368
+Iteration 4 : SSC = 2371249.446583612
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 95
+-----------------------
+Iteration 1 : SSC = 5300530.700082202
+Iteration 2 : SSC = 3325177.7448842977
+Iteration 3 : SSC = 2835291.374825548
+Iteration 4 : SSC = 2473603.7931266637
+Iteration 5 : SSC = 2392500.7546449522
+Iteration 6 : SSC = 2374098.575039119
+Iteration 7 : SSC = 2371249.446583612
+Iteration 8 : SSC = 2370689.68678297
+
+Run: 96
+-----------------------
+Iteration 1 : SSC = 15700919.76140109
+Iteration 2 : SSC = 4356207.0376721695
+Iteration 3 : SSC = 2795025.3353501987
+Iteration 4 : SSC = 2463787.220903916
+Iteration 5 : SSC = 2381982.9894820536
+Iteration 6 : SSC = 2371249.446583612
+Iteration 7 : SSC = 2370689.68678297
+
+Run: 97
+-----------------------
+Iteration 1 : SSC = 13257483.11661779
+Iteration 2 : SSC = 5522759.246869489
+Iteration 3 : SSC = 3454994.019703647
+Iteration 4 : SSC = 2872031.7897818005
+Iteration 5 : SSC = 2488569.700586255
+Iteration 6 : SSC = 2403136.3013521526
+Iteration 7 : SSC = 2374098.575039119
+Iteration 8 : SSC = 2371249.446583612
+Iteration 9 : SSC = 2370689.68678297
+
+Run: 98
+-----------------------
+Iteration 1 : SSC = 8705350.518606763
+Iteration 2 : SSC = 2659706.247757076
+Iteration 3 : SSC = 2632289.6275722864
+Iteration 4 : SSC = 2629349.567979925
+Iteration 5 : SSC = 2625223.1506744255
+Iteration 6 : SSC = 2625223.1506744255
+
+Run: 99
+-----------------------
+Iteration 1 : SSC = 9425648.702962205
+Iteration 2 : SSC = 2822398.982193012
+Iteration 3 : SSC = 2386424.355992094
+Iteration 4 : SSC = 2370689.68678297
+Iteration 5 : SSC = 2370689.68678297
+
+Run: 100
+-----------------------
+Iteration 1 : SSC = 7598181.618782799
+Iteration 2 : SSC = 2854476.7147872685
+Iteration 3 : SSC = 2656457.500325508
+Iteration 4 : SSC = 2570058.1957887853
+Iteration 5 : SSC = 2498249.2848265227
+Iteration 6 : SSC = 2455709.271322011
+Iteration 7 : SSC = 2452516.3200654294
+Iteration 8 : SSC = 2430989.1425787983
+Iteration 9 : SSC = 2397980.7062965757
+Iteration 10 : SSC = 2379460.838530858
+Iteration 11 : SSC = 2372929.8051930894
+Iteration 12 : SSC = 2370689.68678297
+
+
+Best Run: 1 : SSC = 2370689.68678297
